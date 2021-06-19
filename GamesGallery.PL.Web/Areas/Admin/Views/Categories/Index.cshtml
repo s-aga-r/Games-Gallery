@@ -1,0 +1,79 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model IPagedList<GamesGallery.ViewModel.CategoryViewModel>
+
+@{
+    ViewBag.Title = "Categories List";
+}
+
+@section styles{
+    @Styles.Render("~/bundles/custom/css")
+    @Styles.Render("~/Content/pagedlist")
+}
+
+<div class="container">
+    @{ Html.RenderPartial("_ViewHeadingPartial", "Categories List"); }
+    <br />
+    @{ Html.RenderPartial("_CategoriesAddNewLinkPartial"); }
+
+
+    @if (Model.Count() > 0)
+    {
+        using (Html.BeginForm("DeleteSelectedCategories", "Categories", FormMethod.Post, new { onsubmit = "return validate(this);" }))
+        {
+            { Html.RenderPartial("_RemoveAllPartial"); }
+            <br />
+            <br />
+            <div style="overflow-x:auto;">
+                <table class="table text-nowrap">
+                    <tr>
+                        @{ Html.RenderPartial("_CheckAllPartial"); }
+                        <th>
+                            @Html.ActionLink("Title", "Index", new { Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = ViewBag.SortTitleParameter }, htmlAttributes: new { title = "Toggle sort by Title" })
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Description)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().IsActive)
+                        </th>
+                        <th>
+                            @Html.DisplayName("Action")
+                        </th>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            @{ Html.RenderPartial("_IndexCheckboxPartial", item.Id); }
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Title)
+                            </td>
+                            <td>
+                                @Html.TextAreaFor(modelItem => item.Description, htmlAttributes: new { @class = "TextAreaIndex", @readonly = "readonly" })
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.IsActive)
+                            </td>
+                            <td>
+                                @{ Html.RenderPartial("_IndexActionPartial", item.Id); }
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        }
+    }
+    else
+    {
+        { Html.RenderPartial("_NoDataPartial"); }
+    }
+
+    <div class="PagedListPager">
+        @Html.PagedListPager(Model, Page => Url.Action("Index", new { Page, Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = Request["SortBy"] }), new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true })
+    </div>
+</div>
+
+@section scripts{
+    @Scripts.Render("~/bundles/custom/js")
+}

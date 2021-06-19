@@ -1,0 +1,9 @@
+﻿@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        @{ Html.RenderPartial("_BackToListPartial"); }
+    </div>
+}

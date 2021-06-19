@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title - GamesGallery</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/Admin")
+    @RenderSection("styles", required: false)
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-color">
+        <div class="container">
+            @Html.ActionLink("Games Gallery", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        @*<a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>*@
+                        @Html.ActionLink("Admin", "Index", "Home", new { area = "Admin" }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Manage
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            @Html.ActionLink("Games", "Index", "Games", new { area = "Admin" }, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Categories", "Index", "Categories", new { area = "Admin" }, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Screenshots", "Index", "Screenshots", new { area = "Admin" }, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Sliders", "Index", "Slider", new { area = "Admin" }, new { @class = "dropdown-item" })
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <div class="dropdown-divider"></div>
+                                @Html.ActionLink("Add User", "Register", "Account", new { area = "" }, new { @class = "dropdown-item" })
+                            }
+                        </div>
+                    </li>
+                </ul>
+                @{ Html.RenderPartial("~/Views/Shared/_LoginPartial.cshtml"); }
+            </div>
+        </div>
+    </nav>
+
+    <div class="body-content-admin">
+        <div class="body-content-inner">
+            @RenderBody()
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p class="footer-text">&copy; @DateTime.Now.Year - GamesGallery</p>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+

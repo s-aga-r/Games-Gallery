@@ -1,0 +1,101 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model IPagedList<GamesGallery.ViewModel.GameViewModel>
+
+@{
+    ViewBag.Title = "Games List";
+}
+
+@section styles{
+    @Styles.Render("~/bundles/custom/css")
+    @Styles.Render("~/Content/pagedlist")
+}
+
+<div class="container-fluid">
+    @{ Html.RenderPartial("_ViewHeadingPartial", "Games List"); }
+    <br />
+    @{ Html.RenderPartial("_GamesAddNewLinkPartial"); }
+</div>
+
+@if (Model.Count() > 0)
+{
+    using (Html.BeginForm("DeleteSelectedGames", "Games", FormMethod.Post, new { onsubmit = "return validate(this);" }))
+    {
+        <div class="container-fluid">@{ Html.RenderPartial("_RemoveAllPartial"); }</div>
+        <div class="container-fluid" style="overflow-x:auto;">
+            <table class="table text-nowrap">
+                <tr>
+                    @{ Html.RenderPartial("_CheckAllPartial"); }
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().CoverImage)
+                    </th>
+                    <th>
+                        @Html.ActionLink("Title", "Index", new { SearchBy = Request["SearchBy"], Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = ViewBag.SortTitleParameter }, htmlAttributes: new { title = "Toggle sort by Title" })
+                    </th>
+                    <th>
+                        @Html.ActionLink("Size", "Index", new { SearchBy = Request["SearchBy"], Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = ViewBag.SortSizeParameter }, htmlAttributes: new { title = "Toggle sort by Size" })
+                    </th>
+                    <th>
+                        @Html.ActionLink("Date of Upload", "Index", new { SearchBy = Request["SearchBy"], Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = ViewBag.SortDateOfUploadParameter }, htmlAttributes: new { title = "Toggle sort by Date of Upload" })
+                    </th>
+                    <th>
+                        @Html.ActionLink("Year of Release", "Index", new { SearchBy = Request["SearchBy"], Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = ViewBag.SortYearOfReleaseParameter }, htmlAttributes: new { title = "Toggle sort by Year of Release" })
+                    </th>
+                    <th>
+                        @Html.ActionLink("Total Downloads", "Index", new { SearchBy = Request["SearchBy"], Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = ViewBag.SortTotalDownloadsParameter }, htmlAttributes: new { title = "Toggle sort by Total Downloads" })
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().IsActive)
+                    </th>
+                    <th>
+                        @Html.DisplayName("Action")
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        @{ Html.RenderPartial("_IndexCheckboxPartial", item.Id); }
+                        <td>
+                            @{ Html.RenderPartial("_IndexImagePartial", new Tuple<string, string>(item.CoverImage, "Cover Image")); }
+                        </td>
+                        <td>
+                            @Html.TextAreaFor(modelItem => item.Title, htmlAttributes: new { @class = "TextAreaIndex", @readonly = "readonly" })
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Size) GB
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DateOfUpload)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.YearOfRelease)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TotalDownloads)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.IsActive)
+                        </td>
+                        <td>
+                            @{ Html.RenderPartial("_IndexActionPartial", item.Id); }
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+}
+else
+{
+    { Html.RenderPartial("_NoDataPartial"); }
+}
+
+<div class="PagedListPager">
+    @Html.PagedListPager(Model, Page => Url.Action("Index", new { Page, SearchBy = Request["SearchBy"], Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = Request["SortBy"] }), new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true })
+</div>
+
+@section scripts{
+    @Scripts.Render("~/bundles/custom/js")
+}
+

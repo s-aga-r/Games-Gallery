@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title - GamesGallery</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/User")
+    @RenderSection("styles", required: false)
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-custom">
+        <div class="container">
+            @Html.ActionLink("Games Gallery", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        @Html.ActionLink("Top Games", "TopGames", "Games", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Category
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            @{ Html.RenderAction("_CategoryListForLayoutPartial", "PartialView"); }
+                        </div>
+                    </li>
+                </ul>
+
+                @using (Html.BeginForm("SearchGame", "Games", null, FormMethod.Get, htmlAttributes: new { @class = "form-inline my-2 my-lg-0", onsubmit = "return validateSearch(this);" }))
+                {
+                    @Html.TextBox("SearchString", "", htmlAttributes: new { @class = "form-control mr-sm-2", type = "search", placeholder = "Search Game", id = "SearchString" })
+                    <button type="submit" class="btn my-2 my-sm-0 search-button">Search</button>
+                }
+            </div>
+        </div>
+    </nav>
+
+    <div class="body-content">
+        <div class="body-content-inner">
+            @RenderBody()
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p class="footer-text">&copy; @DateTime.Now.Year - GamesGallery</p>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/custom/js")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+

@@ -1,0 +1,96 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model IPagedList<GamesGallery.ViewModel.SliderViewModel>
+
+@{
+    ViewBag.Title = "Sliders List";
+}
+
+@section styles{
+    @Styles.Render("~/bundles/custom/css")
+    @Styles.Render("~/Content/pagedlist")
+}
+
+<div class="container-fluid">
+    @{ Html.RenderPartial("_ViewHeadingPartial", "Sliders List"); }
+    <br />
+    @{ Html.RenderPartial("_SlidersAddNewLinkPartial"); }
+</div>
+
+@if (Model.Count() > 0)
+{
+    using (Html.BeginForm("DeleteSelectedSliders", "Slider", FormMethod.Post, new { onsubmit = "return validate(this);" }))
+    {
+        <div class="container-fluid">@{ Html.RenderPartial("_RemoveAllPartial"); }</div>
+        <div class="container-fluid" style="overflow-x:auto;">
+            <table class="table text-nowrap">
+                <tr>
+                    @{ Html.RenderPartial("_CheckAllPartial"); }
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().SlideImage)
+                    </th>
+                    <th>
+                        @Html.ActionLink("Game Title", "Index", new { Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = ViewBag.SortGameTitleParameter }, htmlAttributes: new { title = "Toggle sort by Game Title" })
+                    </th>
+                    <th>
+                        @Html.ActionLink("Date of Upload", "Index", new { Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = ViewBag.SortDateOfUploadParameter }, htmlAttributes: new { title = "Toggle sort by Date of Upload" })
+                    </th>
+                    <th>
+                        @Html.ActionLink("Last Updated On", "Index", new { Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = ViewBag.SortLastUpdatedOnParameter }, htmlAttributes: new { title = "Toggle sort by Last Updated On" })
+                    </th>
+                    <th>
+                        @Html.ActionLink("Order", "Index", new { Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = ViewBag.SortOrderParameter }, htmlAttributes: new { title = "Toggle sort by Order" })
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().IsActive)
+                    </th>
+                    <th>
+                        @Html.DisplayName("Action")
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        @{ Html.RenderPartial("_IndexCheckboxPartial", item.Id); }
+                        <td>
+                            @{ Html.RenderPartial("_IndexImagePartial", new Tuple<string, string>(item.SlideImage, "Slide Image")); }
+                        </td>
+                        <td>
+                            @Html.TextAreaFor(modelItem => item.Game.Title, htmlAttributes: new { @class = "TextAreaIndex", @readonly = "readonly" })
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DateOfUpload)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.LastUpdatedOn)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Order)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.IsActive)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    }
+}
+else
+{
+    { Html.RenderPartial("_NoDataPartial"); }
+}
+
+<div class="PagedListPager">
+    @Html.PagedListPager(Model, Page => Url.Action("Index", new { Page, SearchBy = Request["SearchBy"], Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = Request["SortBy"] }), new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true })
+</div>
+
+@section scripts{
+    @Scripts.Render("~/bundles/custom/js")
+}

@@ -1,0 +1,27 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model IPagedList<GamesGallery.ViewModel.GameViewModel>
+
+@{
+    ViewBag.Title = "Screenshots";
+}
+
+@section styles{
+    @Styles.Render("~/bundles/custom/css")
+    @Styles.Render("~/Content/pagedlist")
+}
+
+<div class="container-fluid">
+    @{ Html.RenderPartial("_ViewHeadingPartial", "Screenshots"); }
+    <br />
+    @{ Html.RenderPartial("_GameScreenshotPartial", Model); }
+    @if (Model.Count() < 1)
+    {
+        { Html.RenderPartial("_NoDataPartial"); }
+    }
+
+    <div class="PagedListPager">
+        @Html.PagedListPager(Model, Page => Url.Action("Index", new { Page, Search = Request["Search"], NoOfRecords = Request["NoOfRecords"] }), new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true })
+    </div>
+</div>
+

@@ -1,0 +1,19 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model IPagedList<GamesGallery.ViewModel.GameViewModel>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+@section styles{
+    @Styles.Render("~/Content/pagedlist")
+}
+
+<div>
+    @{ string PageTitle = "Search results for " + ViewBag.Parameter;  }
+    @{ Html.RenderAction("_GamesPartial", "PartialView", new { Games = Model, Title = PageTitle, Parameter = ViewBag.Parameter, Action = "Search", Controller = "Games", GamesCount = ViewBag.GamesCount }); }
+</div>
+
+
+

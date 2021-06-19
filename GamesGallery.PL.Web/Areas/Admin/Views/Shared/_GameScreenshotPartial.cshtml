@@ -1,0 +1,42 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model IPagedList<GamesGallery.ViewModel.GameViewModel>
+
+<p>
+    @Html.ActionLink("Click here", "Create", "Games")
+    to add a Game.
+    <span style="float:right">
+        <a href="#FiltersPanel" data-toggle="collapse" title="Show Filter Panel">
+            Filter
+            <span class="glyphicon glyphicon-filter"></span>
+        </a>
+    </span>
+</p>
+
+<br />
+<div class="panel panel-default mb-3">
+    <div class="panel-body collapse" id="FiltersPanel">
+        @using (Html.BeginForm("Index", "Screenshots", FormMethod.Get))
+        {
+            <div class="col-xl-3 col-lg-4 col-md-5 col-sm-6 p-0">
+                @Html.TextBox("Search", "", htmlAttributes: new { @class = "form-control mb-2", placeholder = "Search Pattern" })
+                @Html.TextBox("NoOfRecords", "", htmlAttributes: new { @class = "form-control mb-2", placeholder = "No of Records / Page", type = "number", min = "1", max = "500" })
+                <input type="submit" class="btn btn-outline-primary mb-2" value="Apply" />
+            </div>
+        }
+    </div>
+</div>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 ScreenshotIndexOuterMainDiv">
+            <a href="/Admin/Screenshots/Game/@item.Id" title="Manage Screenshots for @item.Title">
+                <div class="ScreenshotIndexOuterDiv">
+                    <img src="@Url.Content(item.CoverImage)" class="img-responsive ScreenshotIndexImage" />
+                    <p class="text-center ScreenshotTitle">@item.Title</p>
+                </div>
+            </a>
+        </div>
+    }
+</div>

@@ -1,0 +1,7 @@
+﻿@model int
+
+@if (User.IsInRole("Admin"))
+{
+    <label>|</label>
+    @Html.ActionLink("Delete", "Delete", new { id = Model })
+}

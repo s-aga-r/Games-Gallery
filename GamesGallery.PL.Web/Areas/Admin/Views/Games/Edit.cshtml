@@ -1,0 +1,162 @@
+﻿@model GamesGallery.ViewModel.GameViewModel
+
+@{
+    ViewBag.Title = "Edit Game";
+}
+
+@section styles{
+    @Styles.Render("~/bundles/custom/css")
+}
+
+<div class="container">
+    @{ Html.RenderPartial("_ViewHeadingPartial", "Edit Game"); }
+
+    @using (Html.BeginForm("Edit", "Games", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @* Title *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            @* Description *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control", rows = "5", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            @* CoverImage *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.CoverImage, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.EditorFor(model => model.CoverImage, new { htmlAttributes = new { @class = "form-control", @type = "file", accept = "image/*", onchange = "ImageValidation('CoverImage')" } })
+                    @Html.ValidationMessageFor(model => model.CoverImage, "", new { @class = "text-danger" })
+                    @{ Html.RenderPartial("_EditImagePartial", new Tuple<string, string>(Model.CoverImage, Model.Title + " Cover Image")); }
+                </div>
+            </div>
+            @* Size *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.Size, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.EditorFor(model => model.Size, new { htmlAttributes = new { @class = "form-control", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.Size, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            @* MinimumRequirements *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.MinimumRequirements, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.EditorFor(model => model.MinimumRequirements, new { htmlAttributes = new { @class = "form-control", rows = "5", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.MinimumRequirements, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            @* RecommendedRequirements *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.RecommendedRequirements, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.EditorFor(model => model.RecommendedRequirements, new { htmlAttributes = new { @class = "form-control", rows = "5", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.RecommendedRequirements, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            @* VideoTutorial *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.VideoTutorial, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.EditorFor(model => model.VideoTutorial, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.VideoTutorial, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            @* TotalDownloads *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.TotalDownloads, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.EditorFor(model => model.TotalDownloads, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.TotalDownloads, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            @* YearOfRelease *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.YearOfRelease, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.EditorFor(model => model.YearOfRelease, new { htmlAttributes = new { @class = "form-control", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.YearOfRelease, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            @* DownloadLink *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.DownloadLink, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.EditorFor(model => model.DownloadLink, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.DownloadLink, "", new { @class = "text-danger" })
+                    @{ Html.RenderPartial("_EditDownloadLinksPartial", Model.DownloadLinks); }
+                </div>
+            </div>
+            @* Screenshot *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.Screenshot, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.TextBoxFor(model => model.Screenshot, new { @class = "form-control", type = "file", multiple = "multiple", accept = "image/*", onchange = "ImageValidationMultiple('Screenshot', 10)" })
+                    @Html.ValidationMessageFor(model => model.Screenshot, "", new { @class = "text-danger" })
+                    @{ Html.RenderPartial("_EditScreenshotsPartial", Model.Screenshots); }
+                </div>
+            </div>
+            @* Categories *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.CategoriesId, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    @Html.DropDownListFor(model => model.CategoriesId, new SelectList(Model.CategoriesList, "Value", "Text"), htmlAttributes: new { @class = "form-control", multiple = "multiple" })
+                    @Html.ValidationMessageFor(model => model.CategoriesId, "", new { @class = "text-danger", style = "display: block;" })
+                    @{ Html.RenderPartial("_EditCategoriesPartial", Model.Categories); }
+                </div>
+            </div>
+            @* AddCategory *@
+            <div class="form-group">
+                <div class="col-md-5 col-md-offset-2">
+                    <div class="panel panel-default" style="margin:0px;border:none;">
+                        <div class="panel-body collapse" id="AddCategoryPanel" style="padding:0px;border:none;">
+                            <div class="input-group" style="max-width:281px;">
+                                @Html.TextBoxFor(model => model.AddCategory, "", htmlAttributes: new { @class = "form-control", placeholder = "Category Title", title = "Category Title", style = "max-width:231px;" })
+                                <span class="input-group-btn">
+                                    <button type="button" class="btn btn-primary" title="Add Category" onclick="AddCategoryFun()">Add</button>
+                                </span>
+                            </div>
+                            @Html.ValidationMessageFor(model => model.AddCategory, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @* IsActive *@
+            <div class="form-group">
+                @Html.LabelFor(model => model.IsActive, htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-5">
+                    <div class="checkbox">
+                        @Html.EditorFor(model => model.IsActive)
+                        @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+            @* Save Game *@
+            @{ Html.RenderPartial("_EditButtonPartial"); }
+        </div>
+    }
+
+    <div>
+        @{ Html.RenderPartial("_BackToListPartial"); }
+    </div>
+</div>
+
+@section scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/jqueryajax")
+    @Scripts.Render("~/bundles/jqueryunobtrusiveval")
+    @Scripts.Render("~/bundles/custom/js")
+}

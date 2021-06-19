@@ -1,0 +1,16 @@
+﻿@model Tuple<string, string>
+
+@if (Model.Item1 != null)
+{
+    <div>
+        <a href="#SlideImagePanel" data-toggle="collapse" title="Show Slide Image">
+            Show Slide Image
+            <span class="glyphicon glyphicon-menu-down"></span>
+        </a>
+        <div class="panel panel-default" style="margin:0px;border:none;">
+            <div class="panel-body collapse" id="SlideImagePanel" style="padding:0px;border:none;">
+                @{ Html.RenderPartial("_SliderImagePartial", new Tuple<string, string>(Model.Item1, Model.Item2 + " Cover Image")); }
+            </div>
+        </div>
+    </div>
+}

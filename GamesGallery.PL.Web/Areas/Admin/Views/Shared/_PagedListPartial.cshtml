@@ -1,0 +1,6 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model IPagedList<GamesGallery.ViewModel.GameViewModel>
+<div style="text-align:center">
+    @Html.PagedListPager(Model, Page => Url.Action("Index", new { Page, SearchBy = Request["SearchBy"], Search = Request["Search"], NoOfRecords = Request["NoOfRecords"], SortBy = Request["SortBy"] }), new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true })
+</div>

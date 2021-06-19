@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Admin Panel";
+}
+
+@section styles{
+    @Styles.Render("~/bundles/custom/css")
+}
+
+<div class="container">
+    @{ Html.RenderPartial("_ViewHeadingPartial", "Admin Panel"); }
+
+    <div class="row AdminMainDiv">
+        @{ Html.RenderPartial("_AdminPanelPartial", new Tuple<string, string, string>("/Admin/Games", "~/Resource/StaticImage/Game.svg", "Games")); }
+        @{ Html.RenderPartial("_AdminPanelPartial", new Tuple<string, string, string>("/Admin/Categories", "~/Resource/StaticImage/Category.svg", "Categories")); }
+        @{ Html.RenderPartial("_AdminPanelPartial", new Tuple<string, string, string>("/Admin/Screenshots", "~/Resource/StaticImage/Category2.svg", "Screenshots")); }
+    </div>
+</div>
+
+
+

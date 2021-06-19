@@ -1,0 +1,8 @@
+﻿@model int
+
+@if (User.IsInRole("Admin"))
+{
+    <td>
+        <input type="checkbox" name="IdsToDelete" value="@Model" onclick="CheckUncheckThisCheckbox()" />
+    </td>
+}

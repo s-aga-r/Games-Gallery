@@ -1,0 +1,121 @@
+﻿@model GamesGallery.ViewModel.GameViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+@section Styles{
+    <style>
+        .section-divider {
+            background-color: var(--color3);
+        }
+    </style>
+}
+
+<div class="container mt-5">
+    <h2><b>@Model.Title</b></h2>
+    @{ string categoriesTitle = "";}
+    @foreach (var category in Model.Categories)
+    {
+        categoriesTitle += category.Title + ", ";
+    }
+    @{ categoriesTitle = categoriesTitle.Remove(categoriesTitle.LastIndexOf(','), 1); }
+    <p class="mt-3">@Model.Title Free Download PC Game setup in single direct link for Windows. It is an amazing @categoriesTitle game.</p>
+    <hr class="section-divider" />
+    <h4><b>@Model.Title PC Game 2021 Overview</b></h4>
+    <div class="mt-3 row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <img src="@Url.Content(Model.CoverImage)" class="img-fluid rounded" alt="@Model.Title Cover Image" />
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+    <p class="text-justify mt-3">@Model.Description</p>
+    <hr class="section-divider" />
+    <h3>Technical Specifications of This Release.</h3>
+    <p>
+        <b>Game Version</b> : Initial Release<br />
+        <b>Interface Language</b> : English<br />
+        <b>Audio Language</b> : English<br />
+        <b>Game File Name</b> : @Model.Title.Replace(" ", "_")<span>.zip</span><br />
+        @{ string size = string.Empty; }
+        @if (Model.Size < 1)
+        {
+            size = Model.Size * 1024 + " MB";
+        }
+        else
+        {
+            size = Model.Size + " GB";
+        }
+        <b>Game Download Size</b> : @size<br />
+        <b>MD5SUM</b> : 4b8e298915c130a5acea6e259539311c
+    </p>
+    <hr class="section-divider" />
+    @if (Model.Screenshots.Count() > 0)
+    {
+        <div class="text-center mt-5">
+            <button href="#ScreenshotsPanel" class="btn btn-lg apply-button dropdown-toggle" type="button" data-toggle="collapse" aria-haspopup="true" aria-expanded="false">
+                Screenshot(s)
+            </button>
+
+            <div class="panel panel-default mt-5">
+                <div class="panel-body collapse" id="ScreenshotsPanel">
+                    @foreach (var screenshot in Model.Screenshots)
+                    {
+                        <div class="text-left">
+                            <p><b>@screenshot.Title</b></p>
+                            <img src="@Url.Content(screenshot.ImagePath)" class="img-fluid rounded" alt="Screenshot" />
+                            <p class="text-justify mt-2">@screenshot.Description</p>
+                        </div>
+                    }
+                </div>
+            </div>
+
+        </div>
+    }
+    <hr class="section-divider" />
+
+    <h4>System Requirements for @Model.Title</h4>
+    <h5>Minimum Requirements :</h5>
+    <p>@Html.Raw(Model.MinimumRequirements.Replace("\r\n", "<br />"))</p>
+    <h5>Recommended Requirements :</h5>
+    <p>@Html.Raw(Model.RecommendedRequirements.Replace("\r\n", "<br />"))</p>
+
+    <hr class="section-divider" />
+    <h3>@Model.Title Free Download</h3>
+    <p>
+        Click on the below download(s) button to start @Model.Title. It is full and complete game. Just download and start playing it. We have provided direct link full setup of the game.
+    </p>
+    <p><b>Total Downloads : </b>@Model.TotalDownloads</p>
+    <div class="text-center mt-4">
+        @if (Model.DownloadLinks.Count() > 1)
+        {
+            int i = 0;
+            foreach (var downloadLink in Model.DownloadLinks)
+            {
+                i++;
+                <div>
+                    <a href="@downloadLink.Link" target="_blank" onclick="DownloadGame(@Model.Id)" class="btn btn-lg btn-outline-success">Download Link @i</a>
+                </div>
+                <br />
+            }
+        }
+        else
+        {
+            <div>
+                <a href="@Model.DownloadLinks.First().Link" target="_blank" onclick="DownloadGame(@Model.Id)" class="btn btn-lg btn-outline-success">Download Link</a>
+            </div>
+        }
+    </div>
+    <hr class="section-divider" />
+    @if (Model.VideoTutorial != null)
+    {
+        <h3>How to install @Model.Title</h3>
+        <div class="text-center mt-4"><a href="@Model.VideoTutorial" target="_blank" class="btn btn-lg btn-outline-primary">Download Video</a></div>
+        <hr class="section-divider" />
+    }
+</div>
+
+@section scripts{
+    @Scripts.Render("~/bundles/custom/js")
+}
+

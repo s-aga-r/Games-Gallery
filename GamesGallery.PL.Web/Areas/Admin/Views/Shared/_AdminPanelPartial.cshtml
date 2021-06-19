@@ -1,0 +1,8 @@
+﻿@model Tuple<string, string, string>
+
+<div class="col-sm-4 AdminMainImageDiv">
+    <a href="@Url.Content(@Model.Item1)">
+        <img src="@Url.Content(@Model.Item2)" class="img-responsive NoDataImage" title="Manage @Model.Item3" alt="Manage @Model.Item3" />
+    </a>
+    <h5 class="AdminImageTitle">@Model.Item3</h5>
+</div>

@@ -1,0 +1,244 @@
+﻿body {
+    /*background-color:red;*/
+}
+
+.CoverImage {
+    height: auto;
+    max-width: 280px;
+    border-radius: 3px;
+    /*max-height: 100px;*/
+    width: auto;
+    margin-bottom: 5px;
+}
+
+.TextArea {
+    min-height: 100px;
+    background-color: white;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    -ms-overflow-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+    .TextArea::-webkit-scrollbar {
+        resize: vertical;
+    }
+
+.DownloadLinks {
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding: 5px;
+    padding-right: 0px;
+    max-width: 280px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    max-height: 100px;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+}
+
+    .DownloadLinks::-webkit-scrollbar {
+        resize: none;
+    }
+
+.DownloadLink {
+    display: block;
+    overflow-x: hidden;
+}
+
+.Screenshots {
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding: 4px;
+    padding-right: 0px;
+    max-width: 280px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    max-height: 300px;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+}
+
+    .Screenshots::-webkit-scrollbar {
+        resize: none;
+    }
+
+.Screenshot {
+    max-height: 100px;
+    width: auto;
+    margin-bottom: 4px;
+}
+
+.Categories {
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding: 5px;
+    padding-right: 0px;
+    max-width: 280px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    max-height: 100px;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+}
+
+    .Categories::-webkit-scrollbar {
+        resize: none;
+    }
+
+.Category {
+    display: block;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.CoverImageIndex {
+    height: auto;
+    max-width: 150px;
+    border-radius: 3px;
+    width: auto;
+    margin-bottom: 5px;
+}
+
+.TextAreaIndex {
+    background-color: white;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    -ms-overflow-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+    .TextAreaIndex::-webkit-scrollbar {
+        resize: vertical;
+    }
+
+.ScreenshotIndexOuterMainDiv {
+    margin-bottom: 30px;
+}
+
+.ScreenshotIndexOuterDiv {
+    border: 1px solid gray;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.ScreenshotIndexImage {
+    width: 100%;
+    max-height: 250px;
+    border-radius: 5px;
+}
+
+.ScreenshotTitle {
+    text-decoration: none;
+    color: black;
+}
+
+.GamesSliderP {
+}
+
+
+.GamesSliderI1 {
+}
+
+.GamesSliderI1C1 {
+}
+
+.GamesSliderI1C1I1 {
+}
+
+.GamesSliderP, .GamesSliderI1C1I1 {
+    min-height: 900px;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 768px) {
+    .GamesSliderP, .GamesSliderI1C1I1 {
+        min-height: 600px;
+        background-color: black;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .GamesSliderP, .GamesSliderI1C1I1 {
+        min-height: 600px;
+        background-color: black;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .GamesSliderP, .GamesSliderI1C1I1 {
+        min-height: 650px;
+        background-color: black;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .GamesSliderP, .GamesSliderI1C1I1 {
+        min-height: 700px;
+        background-color: black;
+    }
+}
+
+@media only screen and (min-width: 1920px) {
+    .GamesSliderP, .GamesSliderI1C1I1 {
+        min-height: 900px;
+        background-color: black;
+    }
+}
+
+.GamesSliderI1C1I1C1 {
+}
+
+.GamesSliderI1C1I1C1I1 {
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+    border-radius: 7px;
+    display: inline-block;
+    padding: 25px;
+    text-align: left;
+    margin-bottom: 25px;
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+}
+
+.GamesSliderI1C1I1C1I1C1 {
+    margin-left: 25px;
+}
+
+.NoDataImage {
+    max-height: 600px;
+}
+
+.AdminMainDiv {
+    /*min-height: 500px;*/
+    width: 100%;
+    /*border: 1px solid red;*/
+    margin: 0;
+    margin-top: 50px;
+    padding: 0;
+}
+
+.AdminMainImageDiv {
+    /*border: 1px solid green;*/
+    padding: 30px;
+}
+
+.AdminImageTitle {
+    text-align: center;
+}
+
+.carousel-top-games-title {
+    font-size: 35px;
+}
+
+    .carousel-top-games-title a {
+        color: black;
+        text-decoration: none;
+    }

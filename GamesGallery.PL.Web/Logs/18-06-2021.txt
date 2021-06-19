@@ -1,0 +1,1363 @@
+
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.04.01 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.04.07 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.04.14 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.04.14 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.04.14 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.04.14 PM
+=====================================================================================================================================
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.04.14 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.04.14 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.04.14 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.04.14 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.04.14 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.04.14 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.04.14 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.05.33 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.05.35 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.05.35 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.05.35 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.05.35 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.05.35 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.05.35 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.05.35 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.05.35 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.05.35 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.05.35 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.05.36 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.05.36 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.05.36 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.05.36 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.05.36 PM
+=====================================================================================================================================
+Games		-->		TopGames		-->		OnActionExecuting		-->		@18-06-2021 10.05.48 PM
+Games		-->		TopGames		-->		OnActionExecuted		-->		@18-06-2021 10.05.48 PM
+Games		-->		TopGames		-->		OnResultExecuting		-->		@18-06-2021 10.05.48 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.05.48 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.05.48 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.05.48 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.05.48 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.05.48 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.05.48 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.05.48 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.05.48 PM
+Games		-->		TopGames		-->		OnResultExecuted		-->		@18-06-2021 10.05.48 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.05.50 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.05.50 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.05.50 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.05.50 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.05.50 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.05.50 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.05.50 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.05.50 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.05.50 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.05.50 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.05.50 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.05.50 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.05.50 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.05.50 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.05.50 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.05.50 PM
+=====================================================================================================================================
+Error		-->		NotFound		-->		OnActionExecuting		-->		@18-06-2021 10.05.58 PM
+Error		-->		NotFound		-->		OnActionExecuted		-->		@18-06-2021 10.05.58 PM
+Error		-->		NotFound		-->		OnResultExecuting		-->		@18-06-2021 10.05.58 PM
+Error		-->		NotFound		-->		OnResultExecuted		-->		@18-06-2021 10.05.58 PM
+=====================================================================================================================================
+Error		-->		NotFound		-->		OnActionExecuting		-->		@18-06-2021 10.06.09 PM
+Error		-->		NotFound		-->		OnActionExecuted		-->		@18-06-2021 10.06.09 PM
+Error		-->		NotFound		-->		OnResultExecuting		-->		@18-06-2021 10.06.09 PM
+Error		-->		NotFound		-->		OnResultExecuted		-->		@18-06-2021 10.06.09 PM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@18-06-2021 10.06.30 PM
+Account		-->		Login		-->		OnActionExecuted		-->		@18-06-2021 10.06.30 PM
+Account		-->		Login		-->		OnResultExecuting		-->		@18-06-2021 10.06.30 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.06.31 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.06.33 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.06.33 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.06.33 PM
+Account		-->		Login		-->		OnResultExecuted		-->		@18-06-2021 10.06.33 PM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@18-06-2021 10.07.56 PM
+Account		-->		Login		-->		OnActionExecuted		-->		@18-06-2021 10.07.57 PM
+Account		-->		Login		-->		OnResultExecuting		-->		@18-06-2021 10.07.57 PM
+Account		-->		Login		-->		OnResultExecuted		-->		@18-06-2021 10.07.57 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.07.58 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.07.58 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.07.58 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.07.58 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.08.39 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.08.39 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.08.39 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.08.40 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.08.42 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.08.42 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.08.42 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.08.42 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.08.42 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.08.42 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.08.42 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.08.42 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.08.42 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.08.42 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.08.42 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.08.42 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.08.42 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.08.42 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.08.42 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.08.42 PM
+=====================================================================================================================================
+Categories		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.08.50 PM
+Categories		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.08.50 PM
+Categories		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.08.50 PM
+Categories		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.08.50 PM
+=====================================================================================================================================
+Categories		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.08.52 PM
+Categories		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.08.52 PM
+Categories		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.08.52 PM
+Categories		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.08.52 PM
+=====================================================================================================================================
+Categories		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.09.11 PM
+Categories		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.09.11 PM
+Categories		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.09.11 PM
+Categories		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.09.11 PM
+=====================================================================================================================================
+Categories		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.09.11 PM
+Categories		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.09.11 PM
+Categories		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.09.11 PM
+Categories		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.09.11 PM
+=====================================================================================================================================
+Categories		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.09.14 PM
+Categories		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.09.14 PM
+Categories		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.09.14 PM
+Categories		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.09.14 PM
+=====================================================================================================================================
+Categories		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.09.22 PM
+Categories		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.09.22 PM
+Categories		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.09.22 PM
+Categories		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.09.22 PM
+=====================================================================================================================================
+Categories		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.09.22 PM
+Categories		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.09.22 PM
+Categories		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.09.22 PM
+Categories		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.09.22 PM
+=====================================================================================================================================
+Categories		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.09.23 PM
+Categories		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.09.23 PM
+Categories		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.09.23 PM
+Categories		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.09.23 PM
+=====================================================================================================================================
+Categories		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.09.29 PM
+Categories		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.09.29 PM
+Categories		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.09.29 PM
+Categories		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.09.29 PM
+=====================================================================================================================================
+Categories		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.09.29 PM
+Categories		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.09.29 PM
+Categories		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.09.29 PM
+Categories		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.09.29 PM
+=====================================================================================================================================
+Categories		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.09.30 PM
+Categories		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.09.30 PM
+Categories		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.09.30 PM
+Categories		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.09.30 PM
+=====================================================================================================================================
+Categories		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.09.42 PM
+Categories		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.09.42 PM
+Categories		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.09.42 PM
+Categories		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.09.42 PM
+=====================================================================================================================================
+Categories		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.09.42 PM
+Categories		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.09.42 PM
+Categories		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.09.42 PM
+Categories		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.09.42 PM
+=====================================================================================================================================
+Categories		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.09.48 PM
+Categories		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.09.48 PM
+Categories		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.09.48 PM
+Categories		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.09.48 PM
+=====================================================================================================================================
+Categories		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.09.58 PM
+Categories		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.09.58 PM
+Categories		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.09.58 PM
+Categories		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.09.58 PM
+=====================================================================================================================================
+Categories		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.09.58 PM
+Categories		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.09.58 PM
+Categories		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.09.58 PM
+Categories		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.09.58 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.10.41 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.10.41 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.10.41 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.10.41 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.10.42 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.10.42 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.10.42 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.10.42 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.13.31 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.13.32 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.13.32 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.13.32 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.13.32 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.13.32 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.13.32 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.13.32 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.13.35 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.13.35 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.13.35 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.13.35 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.14.16 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.14.17 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.14.17 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.14.17 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.14.17 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.14.17 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.14.17 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.14.17 PM
+=====================================================================================================================================
+Games		-->		Details		-->		OnActionExecuting		-->		@18-06-2021 10.14.56 PM
+Games		-->		Details		-->		OnActionExecuted		-->		@18-06-2021 10.14.56 PM
+Games		-->		Details		-->		OnResultExecuting		-->		@18-06-2021 10.14.56 PM
+Games		-->		Details		-->		OnResultExecuted		-->		@18-06-2021 10.14.56 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.15.06 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.15.06 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.15.06 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.15.06 PM
+=====================================================================================================================================
+Manage		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.15.11 PM
+Manage		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.15.11 PM
+Manage		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.15.11 PM
+Manage		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.15.11 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.15.18 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.15.18 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.15.18 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.15.18 PM
+=====================================================================================================================================
+Screenshots		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.15.21 PM
+Screenshots		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.15.21 PM
+Screenshots		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.15.21 PM
+Screenshots		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.15.21 PM
+=====================================================================================================================================
+Screenshots		-->		Game		-->		OnActionExecuting		-->		@18-06-2021 10.15.27 PM
+Screenshots		-->		Game		-->		OnActionExecuted		-->		@18-06-2021 10.15.27 PM
+Screenshots		-->		Game		-->		OnResultExecuting		-->		@18-06-2021 10.15.27 PM
+Screenshots		-->		Game		-->		OnResultExecuted		-->		@18-06-2021 10.15.27 PM
+=====================================================================================================================================
+Screenshots		-->		Game		-->		OnActionExecuting		-->		@18-06-2021 10.16.00 PM
+Screenshots		-->		Game		-->		OnActionExecuted		-->		@18-06-2021 10.16.00 PM
+Screenshots		-->		Game		-->		OnResultExecuting		-->		@18-06-2021 10.16.00 PM
+Screenshots		-->		Game		-->		OnResultExecuted		-->		@18-06-2021 10.16.00 PM
+=====================================================================================================================================
+Screenshots		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.16.31 PM
+Screenshots		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.16.31 PM
+Screenshots		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.16.31 PM
+Screenshots		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.16.31 PM
+=====================================================================================================================================
+Categories		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.16.42 PM
+Categories		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.16.42 PM
+Categories		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.16.42 PM
+Categories		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.16.42 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.16.44 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.16.44 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.16.44 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.16.44 PM
+=====================================================================================================================================
+Account		-->		Register		-->		OnActionExecuting		-->		@18-06-2021 10.16.46 PM
+Account		-->		Register		-->		OnActionExecuted		-->		@18-06-2021 10.16.46 PM
+Account		-->		Register		-->		OnResultExecuting		-->		@18-06-2021 10.16.46 PM
+Account		-->		Register		-->		OnResultExecuted		-->		@18-06-2021 10.16.46 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.17.03 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.17.03 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.17.03 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.17.03 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.17.05 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.17.05 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.17.05 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.17.05 PM
+=====================================================================================================================================
+Account		-->		Register		-->		OnActionExecuting		-->		@18-06-2021 10.18.40 PM
+Account		-->		Register		-->		OnActionExecuted		-->		@18-06-2021 10.18.40 PM
+Account		-->		Register		-->		OnResultExecuting		-->		@18-06-2021 10.18.40 PM
+Account		-->		Register		-->		OnResultExecuted		-->		@18-06-2021 10.18.40 PM
+=====================================================================================================================================
+Account		-->		Register		-->		OnActionExecuting		-->		@18-06-2021 10.19.24 PM
+Account		-->		Register		-->		OnActionExecuted		-->		@18-06-2021 10.19.24 PM
+Account		-->		Register		-->		OnResultExecuting		-->		@18-06-2021 10.19.24 PM
+Account		-->		Register		-->		OnResultExecuted		-->		@18-06-2021 10.19.24 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.19.24 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.19.24 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.19.24 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.19.24 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.19.24 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.19.24 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.19.24 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.19.24 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.19.24 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.19.24 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.19.24 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.19.24 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.19.24 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.19.24 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.19.24 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.19.24 PM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@18-06-2021 10.19.30 PM
+Account		-->		Login		-->		OnActionExecuted		-->		@18-06-2021 10.19.30 PM
+Account		-->		Login		-->		OnResultExecuting		-->		@18-06-2021 10.19.30 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.19.30 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.19.30 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.19.30 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.19.30 PM
+Account		-->		Login		-->		OnResultExecuted		-->		@18-06-2021 10.19.30 PM
+=====================================================================================================================================
+Manage		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.19.39 PM
+Manage		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.19.39 PM
+Manage		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.19.39 PM
+Manage		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.19.39 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.20.08 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.20.08 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.20.08 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.08 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.08 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.08 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.08 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.08 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.08 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.08 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.08 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.08 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.08 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.08 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.08 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.20.08 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.20.10 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.20.10 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.20.10 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.10 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.10 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.10 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.10 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.10 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.10 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.10 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.10 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.10 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.10 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.10 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.10 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.20.10 PM
+=====================================================================================================================================
+Account		-->		LogOff		-->		OnActionExecuting		-->		@18-06-2021 10.20.13 PM
+Account		-->		LogOff		-->		OnActionExecuted		-->		@18-06-2021 10.20.13 PM
+Account		-->		LogOff		-->		OnResultExecuting		-->		@18-06-2021 10.20.13 PM
+Account		-->		LogOff		-->		OnResultExecuted		-->		@18-06-2021 10.20.13 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.20.13 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.20.13 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.20.13 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.13 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.13 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.13 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.13 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.13 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.13 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.13 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.13 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.13 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.13 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.13 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.13 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.20.13 PM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@18-06-2021 10.20.17 PM
+Account		-->		Login		-->		OnActionExecuted		-->		@18-06-2021 10.20.17 PM
+Account		-->		Login		-->		OnResultExecuting		-->		@18-06-2021 10.20.17 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.17 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.17 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.17 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.17 PM
+Account		-->		Login		-->		OnResultExecuted		-->		@18-06-2021 10.20.17 PM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@18-06-2021 10.20.20 PM
+Account		-->		Login		-->		OnActionExecuted		-->		@18-06-2021 10.20.20 PM
+Account		-->		Login		-->		OnResultExecuting		-->		@18-06-2021 10.20.20 PM
+Account		-->		Login		-->		OnResultExecuted		-->		@18-06-2021 10.20.20 PM
+=====================================================================================================================================
+Manage		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.20.20 PM
+Manage		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.20.20 PM
+Manage		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.20.20 PM
+Manage		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.20.20 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.20.23 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.20.23 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.20.23 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.23 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.23 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.23 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.23 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.23 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.23 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.23 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.23 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.23 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.23 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.23 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.23 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.20.23 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.20.25 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.20.25 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.20.25 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.20.25 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.20.29 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.20.29 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.20.29 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.20.29 PM
+=====================================================================================================================================
+Slider		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.20.30 PM
+Slider		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.20.30 PM
+Slider		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.20.30 PM
+Slider		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.20.30 PM
+=====================================================================================================================================
+Slider		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.20.56 PM
+Slider		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.20.57 PM
+Slider		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.20.57 PM
+Slider		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.20.57 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.20.57 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.20.57 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.20.57 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.20.57 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.20.58 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.20.58 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.20.58 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.58 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.58 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.58 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.58 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.58 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.58 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.58 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.58 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.20.58 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.20.58 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.20.58 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.20.58 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.20.58 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.21.01 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.21.01 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.21.01 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.01 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.01 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.01 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.01 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.01 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.01 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.01 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.01 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.01 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.01 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.01 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.01 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.21.01 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.21.06 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.21.06 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.21.06 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.06 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.06 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.06 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.06 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.06 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.06 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.06 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.06 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.06 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.06 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.06 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.06 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.21.06 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.21.20 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.21.20 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.21.20 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.20 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.20 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.20 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.20 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.20 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.20 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.20 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.20 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.20 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.20 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.20 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.20 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.21.20 PM
+=====================================================================================================================================
+Games		-->		TopGames		-->		OnActionExecuting		-->		@18-06-2021 10.21.26 PM
+Games		-->		TopGames		-->		OnActionExecuted		-->		@18-06-2021 10.21.26 PM
+Games		-->		TopGames		-->		OnResultExecuting		-->		@18-06-2021 10.21.26 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.26 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.26 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.26 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.26 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.26 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.26 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.26 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.26 PM
+Games		-->		TopGames		-->		OnResultExecuted		-->		@18-06-2021 10.21.26 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.21.27 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.21.27 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.21.27 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.27 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.27 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.27 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.27 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.27 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.27 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.27 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.27 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.21.27 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.21.27 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.21.27 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.21.27 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.21.27 PM
+=====================================================================================================================================
+Slider		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.21.47 PM
+Slider		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.21.47 PM
+Slider		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.21.47 PM
+Slider		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.21.47 PM
+=====================================================================================================================================
+Slider		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.21.56 PM
+Slider		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.21.56 PM
+Slider		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.21.56 PM
+Slider		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.21.56 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.21.56 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.21.56 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.21.56 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.21.56 PM
+=====================================================================================================================================
+Slider		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.21.57 PM
+Slider		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.21.57 PM
+Slider		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.21.57 PM
+Slider		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.21.57 PM
+=====================================================================================================================================
+Slider		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.22.08 PM
+Slider		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.22.08 PM
+Slider		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.22.08 PM
+Slider		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.22.08 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.22.08 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.22.08 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.22.08 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.22.08 PM
+=====================================================================================================================================
+Slider		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.22.09 PM
+Slider		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.22.09 PM
+Slider		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.22.09 PM
+Slider		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.22.09 PM
+=====================================================================================================================================
+Slider		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.22.20 PM
+Slider		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.22.20 PM
+Slider		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.22.20 PM
+Slider		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.22.20 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.22.20 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.22.20 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.22.20 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.22.20 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.22.21 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.22.22 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.22.22 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.22.22 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.22.22 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.22.22 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.22.22 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.22.22 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.22.22 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.22.22 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.22.22 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.22.22 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.22.22 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.22.22 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.22.22 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.22.22 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.22.30 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.22.31 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.22.31 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.22.32 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.22.32 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.22.32 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.22.32 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.22.32 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.22.32 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.22.32 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.22.32 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.22.32 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.22.32 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.22.32 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.22.32 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.22.32 PM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@18-06-2021 10.23.06 PM
+Account		-->		Login		-->		OnActionExecuted		-->		@18-06-2021 10.23.06 PM
+Account		-->		Login		-->		OnResultExecuting		-->		@18-06-2021 10.23.06 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.23.06 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.23.06 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.23.06 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.23.06 PM
+Account		-->		Login		-->		OnResultExecuted		-->		@18-06-2021 10.23.06 PM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@18-06-2021 10.23.09 PM
+Account		-->		Login		-->		OnActionExecuted		-->		@18-06-2021 10.23.09 PM
+Account		-->		Login		-->		OnResultExecuting		-->		@18-06-2021 10.23.09 PM
+Account		-->		Login		-->		OnResultExecuted		-->		@18-06-2021 10.23.09 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.23.09 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.23.09 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.23.09 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.23.10 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.23.12 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.23.12 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.23.12 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.23.12 PM
+=====================================================================================================================================
+Slider		-->		Delete		-->		OnActionExecuting		-->		@18-06-2021 10.23.14 PM
+Slider		-->		Delete		-->		OnActionExecuted		-->		@18-06-2021 10.23.14 PM
+Slider		-->		Delete		-->		OnResultExecuting		-->		@18-06-2021 10.23.14 PM
+Slider		-->		Delete		-->		OnResultExecuted		-->		@18-06-2021 10.23.14 PM
+=====================================================================================================================================
+Slider		-->		Delete		-->		OnActionExecuting		-->		@18-06-2021 10.23.15 PM
+Slider		-->		Delete		-->		OnActionExecuted		-->		@18-06-2021 10.23.15 PM
+Slider		-->		Delete		-->		OnResultExecuting		-->		@18-06-2021 10.23.15 PM
+Slider		-->		Delete		-->		OnResultExecuted		-->		@18-06-2021 10.23.15 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.23.15 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.23.15 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.23.15 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.23.15 PM
+=====================================================================================================================================
+Slider		-->		Delete		-->		OnActionExecuting		-->		@18-06-2021 10.23.17 PM
+Slider		-->		Delete		-->		OnActionExecuted		-->		@18-06-2021 10.23.17 PM
+Slider		-->		Delete		-->		OnResultExecuting		-->		@18-06-2021 10.23.17 PM
+Slider		-->		Delete		-->		OnResultExecuted		-->		@18-06-2021 10.23.17 PM
+=====================================================================================================================================
+Slider		-->		Delete		-->		OnActionExecuting		-->		@18-06-2021 10.23.18 PM
+Slider		-->		Delete		-->		OnActionExecuted		-->		@18-06-2021 10.23.18 PM
+Slider		-->		Delete		-->		OnResultExecuting		-->		@18-06-2021 10.23.18 PM
+Slider		-->		Delete		-->		OnResultExecuted		-->		@18-06-2021 10.23.18 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.23.18 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.23.18 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.23.18 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.23.18 PM
+=====================================================================================================================================
+Slider		-->		Delete		-->		OnActionExecuting		-->		@18-06-2021 10.23.19 PM
+Slider		-->		Delete		-->		OnActionExecuted		-->		@18-06-2021 10.23.19 PM
+Slider		-->		Delete		-->		OnResultExecuting		-->		@18-06-2021 10.23.19 PM
+Slider		-->		Delete		-->		OnResultExecuted		-->		@18-06-2021 10.23.19 PM
+=====================================================================================================================================
+Slider		-->		Delete		-->		OnActionExecuting		-->		@18-06-2021 10.23.21 PM
+Slider		-->		Delete		-->		OnActionExecuted		-->		@18-06-2021 10.23.21 PM
+Slider		-->		Delete		-->		OnResultExecuting		-->		@18-06-2021 10.23.21 PM
+Slider		-->		Delete		-->		OnResultExecuted		-->		@18-06-2021 10.23.21 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.23.21 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.23.21 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.23.21 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.23.21 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.23.22 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.23.22 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.23.22 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.23.22 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.23.22 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.23.22 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.23.22 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.23.22 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.23.22 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.23.22 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.23.22 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.23.22 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.23.22 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.23.22 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.23.22 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.23.22 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.23.28 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.23.29 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.23.29 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.23.30 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.23.30 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.23.30 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.23.30 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.23.30 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.23.30 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.23.30 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.23.30 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.23.30 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.23.30 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.23.30 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.23.30 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.23.30 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.23.58 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.23.58 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.23.58 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.23.58 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.24.00 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.24.00 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.24.00 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.24.00 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.24.23 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.24.23 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.24.23 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.24.23 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.24.23 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.24.23 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.24.23 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.24.23 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.24.23 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.24.23 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.24.23 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.24.23 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.24.23 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.24.23 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.24.23 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.24.23 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.24.33 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.24.33 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.24.33 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.24.33 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.24.33 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.24.33 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.24.33 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.24.33 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.24.33 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.24.33 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.24.33 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.24.33 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.24.33 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.24.33 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.24.33 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.24.33 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.24.37 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.24.37 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.24.37 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.24.37 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.24.39 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.24.39 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.24.39 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.24.39 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.25.28 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.25.28 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.25.28 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.25.28 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.25.28 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.25.28 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.25.28 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.25.28 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.25.29 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.25.29 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.25.29 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.25.29 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.25.40 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.25.40 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.25.40 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.25.40 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.25.40 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.25.40 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.25.40 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.25.40 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.25.42 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.25.42 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.25.42 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.25.42 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.25.51 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.25.51 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.25.51 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.25.51 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.25.51 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.25.51 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.25.51 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.25.51 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.25.53 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.25.53 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.25.53 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.25.53 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.26.02 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.26.03 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.26.03 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.26.03 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.26.03 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.26.03 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.26.03 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.26.03 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.26.04 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.26.04 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.26.04 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.26.04 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.26.13 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.26.13 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.26.13 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.26.13 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.26.13 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.26.13 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.26.13 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.26.13 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.26.14 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.26.14 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.26.14 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.26.14 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.26.26 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.26.26 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.26.26 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.26.26 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.26.26 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.26.26 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.26.26 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.26.26 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.26.28 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.26.28 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.26.28 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.26.28 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.26.40 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.26.41 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.26.41 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.26.41 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.26.41 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.26.41 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.26.41 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.26.41 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.26.42 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.26.42 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.26.42 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.26.42 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.26.59 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.26.59 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.26.59 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.26.59 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.26.59 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.26.59 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.26.59 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.27.00 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.27.02 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.27.02 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.27.02 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.27.02 PM
+=====================================================================================================================================
+Games		-->		Create		-->		OnActionExecuting		-->		@18-06-2021 10.27.31 PM
+Games		-->		Create		-->		OnActionExecuted		-->		@18-06-2021 10.27.31 PM
+Games		-->		Create		-->		OnResultExecuting		-->		@18-06-2021 10.27.31 PM
+Games		-->		Create		-->		OnResultExecuted		-->		@18-06-2021 10.27.31 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.27.31 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.27.31 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.27.31 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.27.31 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.27.39 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.27.39 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.27.39 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.27.39 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.27.39 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.27.39 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.27.39 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.27.39 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.27.39 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.27.39 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.27.39 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.27.39 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.27.39 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.27.39 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.27.39 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.27.39 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.29.21 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.29.21 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.29.21 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.21 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.21 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.21 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.21 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.21 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.21 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.21 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.21 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.21 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.21 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.21 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.21 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.29.21 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.29.40 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.29.40 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.29.40 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.40 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.40 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.40 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.40 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.40 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.40 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.40 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.40 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.40 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.40 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.40 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.40 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.29.40 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.29.43 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.29.43 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.29.43 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.43 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.43 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.43 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.43 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.43 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.43 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.43 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.43 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.43 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.43 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.43 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.43 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.29.43 PM
+=====================================================================================================================================
+Games		-->		TopGames		-->		OnActionExecuting		-->		@18-06-2021 10.29.49 PM
+Games		-->		TopGames		-->		OnActionExecuted		-->		@18-06-2021 10.29.49 PM
+Games		-->		TopGames		-->		OnResultExecuting		-->		@18-06-2021 10.29.49 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.49 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.49 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.49 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.49 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.49 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.49 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.49 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.49 PM
+Games		-->		TopGames		-->		OnResultExecuted		-->		@18-06-2021 10.29.49 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.29.54 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.29.54 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.29.54 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.54 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.54 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.54 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.54 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.54 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.54 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.54 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.54 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.29.54 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.29.54 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.29.54 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.29.54 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.29.54 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.30.26 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.30.26 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.30.26 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.26 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.26 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.26 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.26 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.26 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.26 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.26 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.26 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.26 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.26 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.26 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.26 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.30.26 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.30.30 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.30.30 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.30.30 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.30 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.30 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.30 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.30 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.30 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.30 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.30 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.30 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.30 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.30 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.30 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.30 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.30.30 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.30.32 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.30.32 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.30.32 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.32 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.32 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.32 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.32 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.32 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.32 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.32 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.32 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.32 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.32 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.32 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.32 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.30.32 PM
+=====================================================================================================================================
+Games		-->		Details		-->		OnActionExecuting		-->		@18-06-2021 10.30.37 PM
+Games		-->		Details		-->		OnActionExecuted		-->		@18-06-2021 10.30.37 PM
+Games		-->		Details		-->		OnResultExecuting		-->		@18-06-2021 10.30.37 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.37 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.37 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.37 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.37 PM
+Games		-->		Details		-->		OnResultExecuted		-->		@18-06-2021 10.30.37 PM
+=====================================================================================================================================
+Games		-->		SearchGame		-->		OnActionExecuting		-->		@18-06-2021 10.30.56 PM
+Games		-->		SearchGame		-->		OnActionExecuted		-->		@18-06-2021 10.30.56 PM
+Games		-->		SearchGame		-->		OnResultExecuting		-->		@18-06-2021 10.30.56 PM
+Games		-->		SearchGame		-->		OnResultExecuted		-->		@18-06-2021 10.30.56 PM
+=====================================================================================================================================
+Games		-->		Search		-->		OnActionExecuting		-->		@18-06-2021 10.30.56 PM
+Games		-->		Search		-->		OnActionExecuted		-->		@18-06-2021 10.30.56 PM
+Games		-->		Search		-->		OnResultExecuting		-->		@18-06-2021 10.30.56 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.56 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.56 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.56 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.56 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.30.56 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.30.56 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.30.56 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.30.56 PM
+Games		-->		Search		-->		OnResultExecuted		-->		@18-06-2021 10.30.56 PM
+=====================================================================================================================================
+Games		-->		Details		-->		OnActionExecuting		-->		@18-06-2021 10.31.00 PM
+Games		-->		Details		-->		OnActionExecuted		-->		@18-06-2021 10.31.00 PM
+Games		-->		Details		-->		OnResultExecuting		-->		@18-06-2021 10.31.00 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.00 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.00 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.00 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.00 PM
+Games		-->		Details		-->		OnResultExecuted		-->		@18-06-2021 10.31.00 PM
+=====================================================================================================================================
+Games		-->		TopGames		-->		OnActionExecuting		-->		@18-06-2021 10.31.05 PM
+Games		-->		TopGames		-->		OnActionExecuted		-->		@18-06-2021 10.31.05 PM
+Games		-->		TopGames		-->		OnResultExecuting		-->		@18-06-2021 10.31.05 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.05 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.05 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.05 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.05 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.05 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.05 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.05 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.05 PM
+Games		-->		TopGames		-->		OnResultExecuted		-->		@18-06-2021 10.31.05 PM
+=====================================================================================================================================
+Games		-->		Category		-->		OnActionExecuting		-->		@18-06-2021 10.31.10 PM
+Games		-->		Category		-->		OnActionExecuted		-->		@18-06-2021 10.31.10 PM
+Games		-->		Category		-->		OnResultExecuting		-->		@18-06-2021 10.31.10 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.10 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.10 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.10 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.10 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.10 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.10 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.10 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.10 PM
+Games		-->		Category		-->		OnResultExecuted		-->		@18-06-2021 10.31.10 PM
+=====================================================================================================================================
+Games		-->		Category		-->		OnActionExecuting		-->		@18-06-2021 10.31.15 PM
+Games		-->		Category		-->		OnActionExecuted		-->		@18-06-2021 10.31.15 PM
+Games		-->		Category		-->		OnResultExecuting		-->		@18-06-2021 10.31.15 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.15 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.15 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.15 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.15 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.15 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.15 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.15 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.15 PM
+Games		-->		Category		-->		OnResultExecuted		-->		@18-06-2021 10.31.15 PM
+=====================================================================================================================================
+Games		-->		Category		-->		OnActionExecuting		-->		@18-06-2021 10.31.17 PM
+Games		-->		Category		-->		OnActionExecuted		-->		@18-06-2021 10.31.17 PM
+Games		-->		Category		-->		OnResultExecuting		-->		@18-06-2021 10.31.17 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.17 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.17 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.17 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.17 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.17 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.17 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.17 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.17 PM
+Games		-->		Category		-->		OnResultExecuted		-->		@18-06-2021 10.31.17 PM
+=====================================================================================================================================
+Games		-->		Category		-->		OnActionExecuting		-->		@18-06-2021 10.31.19 PM
+Games		-->		Category		-->		OnActionExecuted		-->		@18-06-2021 10.31.19 PM
+Games		-->		Category		-->		OnResultExecuting		-->		@18-06-2021 10.31.19 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.19 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.19 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.19 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.19 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.31.19 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.31.19 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.31.19 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.31.19 PM
+Games		-->		Category		-->		OnResultExecuted		-->		@18-06-2021 10.31.19 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.31.28 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.31.28 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.31.28 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.31.28 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.31.32 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.31.32 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.31.32 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.31.33 PM
+=====================================================================================================================================
+Games		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.31.36 PM
+Games		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.31.36 PM
+Games		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.31.36 PM
+Games		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.31.36 PM
+=====================================================================================================================================
+Categories		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.31.38 PM
+Categories		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.31.38 PM
+Categories		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.31.38 PM
+Categories		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.31.38 PM
+=====================================================================================================================================
+Categories		-->		DeleteSelectedCategories		-->		OnActionExecuting		-->		@18-06-2021 10.31.45 PM
+Categories		-->		DeleteSelectedCategories		-->		OnActionExecuted		-->		@18-06-2021 10.31.45 PM
+Categories		-->		DeleteSelectedCategories		-->		OnResultExecuting		-->		@18-06-2021 10.31.45 PM
+Categories		-->		DeleteSelectedCategories		-->		OnResultExecuted		-->		@18-06-2021 10.31.45 PM
+=====================================================================================================================================
+Categories		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.31.45 PM
+Categories		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.31.45 PM
+Categories		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.31.45 PM
+Categories		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.31.45 PM
+=====================================================================================================================================
+Screenshots		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.31.47 PM
+Screenshots		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.31.47 PM
+Screenshots		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.31.47 PM
+Screenshots		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.31.47 PM
+=====================================================================================================================================
+Screenshots		-->		Game		-->		OnActionExecuting		-->		@18-06-2021 10.31.53 PM
+Screenshots		-->		Game		-->		OnActionExecuted		-->		@18-06-2021 10.31.53 PM
+Screenshots		-->		Game		-->		OnResultExecuting		-->		@18-06-2021 10.31.53 PM
+Screenshots		-->		Game		-->		OnResultExecuted		-->		@18-06-2021 10.31.53 PM
+=====================================================================================================================================
+Screenshots		-->		DeleteSelectedScreenshots		-->		OnActionExecuting		-->		@18-06-2021 10.31.58 PM
+Screenshots		-->		DeleteSelectedScreenshots		-->		OnActionExecuted		-->		@18-06-2021 10.31.58 PM
+Screenshots		-->		DeleteSelectedScreenshots		-->		OnResultExecuting		-->		@18-06-2021 10.31.58 PM
+Screenshots		-->		DeleteSelectedScreenshots		-->		OnResultExecuted		-->		@18-06-2021 10.31.58 PM
+=====================================================================================================================================
+Screenshots		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.31.58 PM
+Screenshots		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.31.58 PM
+Screenshots		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.31.58 PM
+Screenshots		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.31.58 PM
+=====================================================================================================================================
+Slider		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.32.01 PM
+Slider		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.32.01 PM
+Slider		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.32.01 PM
+Slider		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.32.01 PM
+=====================================================================================================================================
+Account		-->		Register		-->		OnActionExecuting		-->		@18-06-2021 10.32.06 PM
+Account		-->		Register		-->		OnActionExecuted		-->		@18-06-2021 10.32.06 PM
+Account		-->		Register		-->		OnResultExecuting		-->		@18-06-2021 10.32.06 PM
+Account		-->		Register		-->		OnResultExecuted		-->		@18-06-2021 10.32.06 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.32.08 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.32.08 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.32.08 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.32.08 PM
+=====================================================================================================================================
+Account		-->		LogOff		-->		OnActionExecuting		-->		@18-06-2021 10.32.10 PM
+Account		-->		LogOff		-->		OnActionExecuted		-->		@18-06-2021 10.32.10 PM
+Account		-->		LogOff		-->		OnResultExecuting		-->		@18-06-2021 10.32.10 PM
+Account		-->		LogOff		-->		OnResultExecuted		-->		@18-06-2021 10.32.10 PM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@18-06-2021 10.32.10 PM
+Home		-->		Index		-->		OnActionExecuted		-->		@18-06-2021 10.32.10 PM
+Home		-->		Index		-->		OnResultExecuting		-->		@18-06-2021 10.32.10 PM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@18-06-2021 10.32.10 PM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@18-06-2021 10.32.10 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@18-06-2021 10.32.10 PM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@18-06-2021 10.32.10 PM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@18-06-2021 10.32.10 PM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@18-06-2021 10.32.10 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@18-06-2021 10.32.10 PM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@18-06-2021 10.32.10 PM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@18-06-2021 10.32.10 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@18-06-2021 10.32.10 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@18-06-2021 10.32.10 PM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@18-06-2021 10.32.10 PM
+Home		-->		Index		-->		OnResultExecuted		-->		@18-06-2021 10.32.10 PM

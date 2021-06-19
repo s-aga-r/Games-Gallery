@@ -1,0 +1,25 @@
+﻿@model IEnumerable<GamesGallery.ViewModel.ScreenshotViewModel>
+
+@if (Model.Count() > 0)
+{
+    <a href="#ScreenshotsPanel" data-toggle="collapse" title="Show Screenshots">
+        Show Screenshots
+        <span class="glyphicon glyphicon-menu-down"></span>
+    </a>
+    <div class="panel panel-default" style="margin:0px;border:none;">
+        <div class="panel-body collapse" id="ScreenshotsPanel" style="padding:0px;border:none;">
+            <div class="Screenshots">
+                @foreach (var item in Model)
+                {
+                    <a href="/File/ShowImage?imagePath=@item.ImagePath" target="_blank">
+                        <img src="@Url.Content(item.ImagePath)" class="img-responsive img-thumbnail Screenshot" alt="Screenshot" title="Show Image" />
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <text>-</text>
+}

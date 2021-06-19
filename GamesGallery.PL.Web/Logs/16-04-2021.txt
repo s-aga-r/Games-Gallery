@@ -1,0 +1,416 @@
+
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:01:41 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:01:43 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:01:43 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:01:43 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:01:43 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:01:43 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:01:44 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:01:44 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:01:44 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:01:44 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:01:44 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:01:44 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:01:44 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:01:44 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:01:44 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:01:44 AM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@16-04-2021 12:01:54 AM
+Account		-->		Login		-->		OnActionExecuted		-->		@16-04-2021 12:01:54 AM
+Account		-->		Login		-->		OnResultExecuting		-->		@16-04-2021 12:01:54 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:01:54 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:01:54 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:01:54 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:01:54 AM
+Account		-->		Login		-->		OnResultExecuted		-->		@16-04-2021 12:01:55 AM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@16-04-2021 12:01:58 AM
+Account		-->		Login		-->		OnActionExecuted		-->		@16-04-2021 12:01:58 AM
+Account		-->		Login		-->		OnResultExecuting		-->		@16-04-2021 12:01:58 AM
+Account		-->		Login		-->		OnResultExecuted		-->		@16-04-2021 12:01:58 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:01:58 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:01:58 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:01:58 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:01:58 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:01:58 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:01:58 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:01:58 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:01:58 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:02:10 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:02:10 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:02:10 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:02:10 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:02:10 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:02:10 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:02:10 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:02:10 AM
+=====================================================================================================================================
+Error		-->		NotFound		-->		OnActionExecuting		-->		@16-04-2021 12:02:17 AM
+Error		-->		NotFound		-->		OnActionExecuted		-->		@16-04-2021 12:02:17 AM
+Error		-->		NotFound		-->		OnResultExecuting		-->		@16-04-2021 12:02:17 AM
+Error		-->		NotFound		-->		OnResultExecuted		-->		@16-04-2021 12:02:17 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:03:06 AM
+=====================================================================================================================================
+Error		-->		NotFound		-->		OnActionExecuting		-->		@16-04-2021 12:03:07 AM
+Error		-->		NotFound		-->		OnActionExecuted		-->		@16-04-2021 12:03:07 AM
+Error		-->		NotFound		-->		OnResultExecuting		-->		@16-04-2021 12:03:07 AM
+Error		-->		NotFound		-->		OnResultExecuted		-->		@16-04-2021 12:03:07 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:03:08 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:03:08 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:03:08 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:03:08 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:03:08 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:03:08 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:03:08 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:03:08 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:03:08 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:03:08 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:03:08 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:03:08 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:03:08 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:03:08 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:03:09 AM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@16-04-2021 12:03:21 AM
+Account		-->		Login		-->		OnActionExecuted		-->		@16-04-2021 12:03:21 AM
+Account		-->		Login		-->		OnResultExecuting		-->		@16-04-2021 12:03:21 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:03:22 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:03:22 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:03:22 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:03:22 AM
+Account		-->		Login		-->		OnResultExecuted		-->		@16-04-2021 12:03:22 AM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@16-04-2021 12:03:25 AM
+Account		-->		Login		-->		OnActionExecuted		-->		@16-04-2021 12:03:25 AM
+Account		-->		Login		-->		OnResultExecuting		-->		@16-04-2021 12:03:25 AM
+Account		-->		Login		-->		OnResultExecuted		-->		@16-04-2021 12:03:25 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:03:25 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:03:25 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:03:25 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:03:26 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:04:18 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:04:20 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:04:20 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:04:20 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:04:20 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:04:20 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:04:21 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:04:21 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:04:21 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:04:21 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:04:21 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:04:21 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:04:21 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:04:21 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:04:21 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:04:21 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:04:51 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:04:53 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:04:53 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:04:53 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:04:53 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:04:53 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:04:53 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:04:53 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:04:53 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:04:53 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:04:53 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:04:54 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:04:54 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:04:54 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:04:54 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:04:54 AM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@16-04-2021 12:05:09 AM
+Account		-->		Login		-->		OnActionExecuted		-->		@16-04-2021 12:05:09 AM
+Account		-->		Login		-->		OnResultExecuting		-->		@16-04-2021 12:05:09 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:05:09 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:05:09 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:05:09 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:05:09 AM
+Account		-->		Login		-->		OnResultExecuted		-->		@16-04-2021 12:05:09 AM
+=====================================================================================================================================
+Account		-->		Login		-->		OnActionExecuting		-->		@16-04-2021 12:05:14 AM
+Account		-->		Login		-->		OnActionExecuted		-->		@16-04-2021 12:05:14 AM
+Account		-->		Login		-->		OnResultExecuting		-->		@16-04-2021 12:05:14 AM
+Account		-->		Login		-->		OnResultExecuted		-->		@16-04-2021 12:05:14 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:05:14 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:05:14 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:05:14 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:05:15 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:05:24 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:05:24 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:05:24 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:05:24 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:05:26 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:05:26 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:05:26 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:05:26 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:05:26 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:05:26 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:05:26 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:05:26 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:05:26 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:05:26 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:05:26 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:05:26 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:05:26 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:05:26 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:05:26 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:05:26 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:08:44 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:08:46 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:08:46 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:08:46 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:08:46 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:08:46 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:08:47 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:08:47 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:08:47 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:08:47 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:08:47 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:08:47 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:08:47 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:08:47 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:08:47 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:08:47 AM
+=====================================================================================================================================
+Games		-->		Details		-->		OnActionExecuting		-->		@16-04-2021 12:08:51 AM
+Games		-->		Details		-->		OnActionExecuted		-->		@16-04-2021 12:08:51 AM
+Games		-->		Details		-->		OnResultExecuting		-->		@16-04-2021 12:08:51 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:08:51 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:08:51 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:08:51 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:08:51 AM
+Games		-->		Details		-->		OnResultExecuted		-->		@16-04-2021 12:08:51 AM
+=====================================================================================================================================
+Games		-->		Details		-->		OnActionExecuting		-->		@16-04-2021 12:08:58 AM
+Games		-->		Details		-->		OnActionExecuted		-->		@16-04-2021 12:08:58 AM
+Games		-->		Details		-->		OnResultExecuting		-->		@16-04-2021 12:08:58 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:08:58 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:08:58 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:08:58 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:08:58 AM
+Games		-->		Details		-->		OnResultExecuted		-->		@16-04-2021 12:08:58 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:09:47 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:09:47 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:09:47 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:09:47 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:09:47 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:09:47 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:09:47 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:09:47 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:09:47 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:09:47 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:09:47 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:09:47 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:09:47 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:09:47 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:09:47 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:09:47 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:09:56 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:09:56 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:09:56 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:09:56 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:09:56 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:09:56 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:09:56 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:09:57 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:09:57 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:09:57 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:09:57 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:09:57 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:09:57 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:09:57 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:09:57 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:09:57 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:09:59 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:09:59 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:09:59 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:09:59 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:09:59 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:09:59 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:09:59 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:09:59 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:09:59 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:09:59 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:09:59 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:09:59 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:09:59 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:09:59 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:09:59 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:09:59 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:10:01 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:10:01 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:10:01 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:10:01 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:10:01 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:10:01 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:10:01 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:10:01 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:10:01 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:10:01 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:10:01 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:10:01 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:10:01 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:10:01 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:10:01 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:10:01 AM
+=====================================================================================================================================
+Error		-->		NotFound		-->		OnActionExecuting		-->		@16-04-2021 12:10:35 AM
+Error		-->		NotFound		-->		OnActionExecuted		-->		@16-04-2021 12:10:35 AM
+Error		-->		NotFound		-->		OnResultExecuting		-->		@16-04-2021 12:10:35 AM
+Error		-->		NotFound		-->		OnResultExecuted		-->		@16-04-2021 12:10:36 AM
+=====================================================================================================================================
+Error		-->		NotFound		-->		OnActionExecuting		-->		@16-04-2021 12:10:51 AM
+Error		-->		NotFound		-->		OnActionExecuted		-->		@16-04-2021 12:10:51 AM
+Error		-->		NotFound		-->		OnResultExecuting		-->		@16-04-2021 12:10:51 AM
+Error		-->		NotFound		-->		OnResultExecuted		-->		@16-04-2021 12:10:51 AM
+=====================================================================================================================================
+Error		-->		NotFound		-->		OnActionExecuting		-->		@16-04-2021 12:11:28 AM
+Error		-->		NotFound		-->		OnActionExecuted		-->		@16-04-2021 12:11:28 AM
+Error		-->		NotFound		-->		OnResultExecuting		-->		@16-04-2021 12:11:28 AM
+Error		-->		NotFound		-->		OnResultExecuted		-->		@16-04-2021 12:11:28 AM
+=====================================================================================================================================
+Error		-->		NotFound		-->		OnActionExecuting		-->		@16-04-2021 12:11:39 AM
+Error		-->		NotFound		-->		OnActionExecuted		-->		@16-04-2021 12:11:39 AM
+Error		-->		NotFound		-->		OnResultExecuting		-->		@16-04-2021 12:11:39 AM
+Error		-->		NotFound		-->		OnResultExecuted		-->		@16-04-2021 12:11:39 AM
+=====================================================================================================================================
+Error		-->		NotFound		-->		OnActionExecuting		-->		@16-04-2021 12:11:48 AM
+Error		-->		NotFound		-->		OnActionExecuted		-->		@16-04-2021 12:11:48 AM
+Error		-->		NotFound		-->		OnResultExecuting		-->		@16-04-2021 12:11:48 AM
+Error		-->		NotFound		-->		OnResultExecuted		-->		@16-04-2021 12:11:48 AM
+=====================================================================================================================================
+Error		-->		NotFound		-->		OnActionExecuting		-->		@16-04-2021 12:14:40 AM
+Error		-->		NotFound		-->		OnActionExecuted		-->		@16-04-2021 12:14:40 AM
+Error		-->		NotFound		-->		OnResultExecuting		-->		@16-04-2021 12:14:40 AM
+Error		-->		NotFound		-->		OnResultExecuted		-->		@16-04-2021 12:14:41 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:14:51 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:14:53 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:14:53 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:14:53 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:14:53 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:14:53 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:14:53 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:14:53 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:14:53 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:14:53 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:14:53 AM
+=====================================================================================================================================
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuting		-->		@16-04-2021 12:14:53 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnActionExecuted		-->		@16-04-2021 12:14:53 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuting		-->		@16-04-2021 12:14:53 AM
+PartialView		-->		_CategoryListForLayoutPartial		-->		OnResultExecuted		-->		@16-04-2021 12:14:53 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:14:53 AM
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:15:46 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:15:46 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:15:46 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:15:46 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:15:46 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:15:46 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:15:46 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:15:46 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:15:46 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:15:46 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:15:46 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:15:53 AM
+
+
+
+
+
+#####################################################################################################################################
+# Home		-->		Index		-->				-->		@16-04-2021 12:15:53 AM
+#####################################################################################################################################
+
+
+
+
+
+=====================================================================================================================================
+Home		-->		Index		-->		OnActionExecuting		-->		@16-04-2021 12:16:42 AM
+Home		-->		Index		-->		OnActionExecuted		-->		@16-04-2021 12:16:42 AM
+Home		-->		Index		-->		OnResultExecuting		-->		@16-04-2021 12:16:42 AM
+=====================================================================================================================================
+PartialView		-->		_SliderPartial		-->		OnActionExecuting		-->		@16-04-2021 12:16:42 AM
+PartialView		-->		_SliderPartial		-->		OnActionExecuted		-->		@16-04-2021 12:16:42 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuting		-->		@16-04-2021 12:16:42 AM
+PartialView		-->		_SliderPartial		-->		OnResultExecuted		-->		@16-04-2021 12:16:42 AM
+=====================================================================================================================================
+PartialView		-->		_GamesPartial		-->		OnActionExecuting		-->		@16-04-2021 12:16:42 AM
+PartialView		-->		_GamesPartial		-->		OnActionExecuted		-->		@16-04-2021 12:16:42 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuting		-->		@16-04-2021 12:16:42 AM
+PartialView		-->		_GamesPartial		-->		OnResultExecuted		-->		@16-04-2021 12:16:42 AM
+Home		-->		Index		-->		OnResultExecuted		-->		@16-04-2021 12:16:44 AM
+
+
+
+
+
+#####################################################################################################################################
+# Home		-->		Index		-->		ssssssssssss		-->		@16-04-2021 12:16:44 AM
+#####################################################################################################################################
+
+
+
+

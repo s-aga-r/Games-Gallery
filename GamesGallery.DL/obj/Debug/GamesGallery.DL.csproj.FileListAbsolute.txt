@@ -1,0 +1,98 @@
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.dll.config
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.xml
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.csproj.CopyComplete
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Helpers.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Mvc.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Razor.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Helpers.xml
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Mvc.xml
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Razor.xml
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.xml
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.dll.config
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.pdb
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Helpers.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Mvc.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Razor.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.xml
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Helpers.xml
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Mvc.xml
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Razor.xml
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.xml
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.csproj.CoreCompileInputs.cache
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.csproj.CopyComplete
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.dll
+C:\Users\91917\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.pdb
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.dll.config
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.pdb
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Helpers.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Mvc.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Razor.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.xml
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Helpers.xml
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Mvc.xml
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Razor.xml
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.xml
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.csprojAssemblyReference.cache
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.csproj.CoreCompileInputs.cache
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.csproj.CopyComplete
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.dll
+C:\Users\akash\OneDrive\Documents\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.dll.config
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\GamesGallery.DL.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Helpers.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Mvc.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Razor.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.xml
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Helpers.xml
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Mvc.xml
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.Razor.xml
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.xml
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.csproj.AssemblyReference.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.csproj.CopyComplete
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGallery\GamesGallery.DL\obj\Debug\GamesGallery.DL.pdb

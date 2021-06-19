@@ -1,0 +1,23 @@
+﻿@model IEnumerable<GamesGallery.ViewModel.CategoryViewModel>
+
+@if (Model.Count() > 0)
+{
+    <a href="#CategoriesPanel" data-toggle="collapse" title="Show Categories">
+        Show Categories
+        <span class="glyphicon glyphicon-menu-down"></span>
+    </a>
+    <div class="panel panel-default" style="margin:0px;border:none;">
+        <div class="panel-body collapse" id="CategoriesPanel" style="padding:0px;border:none;">
+            <div class="Categories">
+                @foreach (var item in Model)
+                {
+                    @Html.ActionLink(item.Title, "Details", "Categories", new { area = "Admin", id = item.Id }, new { style = "display: block;" });
+                }
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <text>-</text>
+}

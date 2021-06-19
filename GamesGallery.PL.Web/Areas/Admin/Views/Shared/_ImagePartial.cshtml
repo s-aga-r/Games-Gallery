@@ -1,0 +1,8 @@
+﻿@model Tuple<string, string>
+
+@if (Model.Item1 != null)
+{
+    <a href="/File/ShowImage?imagePath=@Model.Item1" target="_blank">
+        <img src="@Url.Content(Model.Item1)" class="img-responsive CoverImage" alt="@Model.Item2" title="Show Image" />
+    </a>
+}

@@ -1,0 +1,196 @@
+﻿:root {
+    /*Colors*/
+    --color1: #000000;
+    --color2: #1F1F1F;
+    --color3: #2C2C2C;
+    --color4: #0b0704;
+    /*Navbar*/
+    --navbar-background: var(--color4);
+    --navbar-boxshadow: var(--color3);
+    /*Navbar Search Button*/
+    --navbar-search-button-normal: white;
+    --navbar-search-button-background-onhover: var(--color2);
+    --navbar-search-button-text-onhover: white;
+    /*Body*/
+    --body-background: var(--color1);
+    --body-text: white;
+    /*Filter Apply Button*/
+    --navbar-apply-button-normal: white;
+    --navbar-apply-button-background-onhover: var(--color3);
+    --navbar-apply-button-text-onhover: white;
+    /*Game Tile*/
+    --game-tile-background: var(--color3);
+    --game-tile-text: white;
+    --game-tile-time-background: var(--color3);
+    --game-tile-time-text: white;
+    /*Game Tile Download Button*/
+    --navbar-download-button-normal: white;
+    --navbar-download-button-background-onhover: var(--color3);
+    --navbar-download-button-text-onhover: white;
+    /*Footer*/
+    --footer-background: var(--color2);
+    --footer-text: white;
+    /*Pagger*/
+    --pager-background-normal-right: var(--color4);
+    --pager-border-normal-right: var(--color1);
+    --pager-text-normal-right: white;
+    --pager-background-onhover: var(--color3);
+    --pager-text-onhover: white;
+    --pager-background-active: var(--color3);
+    --pager-border-active: var(--color1);
+    --pager-text-active: white;
+    --pager-background-normal-left: var(--color4);
+    --pager-border-normal-left: var(--color1);
+    --pager-text-normal-left: lightgray;
+}
+
+body {
+    padding-top: 30px;
+    padding-bottom: 0px;
+    background-color: var(--body-background);
+    color: var(--body-text);
+}
+
+.navbar-custom {
+    background-color: var(--navbar-background);
+    box-shadow: 0px 1px 20px var(--navbar-boxshadow);
+}
+
+.search-button {
+    color: var(--navbar-search-button-normal);
+    border-color: var(--navbar-search-button-normal);
+    background-color: transparent;
+}
+
+    .search-button:hover {
+        color: var(--navbar-search-button-text-onhover);
+        background-color: var(--navbar-search-button-background-onhover);
+        border-color: var(--navbar-search-button-background-onhover);
+    }
+
+    .search-button:focus {
+        box-shadow: 0 0 0 0.2rem white;
+    }
+
+.apply-button {
+    color: var(--navbar-apply-button-normal);
+    border-color: var(--navbar-apply-button-normal);
+    background-color: transparent;
+}
+
+    .apply-button:hover {
+        color: var(--navbar-apply-button-text-onhover);
+        background-color: var(--navbar-apply-button-background-onhover);
+        border-color: var(--navbar-apply-button-background-onhover);
+    }
+
+    .apply-button:focus {
+        box-shadow: 0 0 0 0.2rem white;
+    }
+
+.download-button {
+    color: var(--navbar-download-button-normal);
+    border-color: var(--navbar-download-button-normal);
+    background-color: transparent;
+}
+
+    .download-button:hover {
+        color: var(--navbar-download-button-text-onhover);
+        background-color: var(--navbar-download-button-background-onhover);
+        border-color: var(--navbar-download-button-background-onhover);
+    }
+
+    .download-button:focus {
+        box-shadow: 0 0 0 0.2rem white;
+    }
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    /*padding-left: 15px;
+    padding-right: 15px;*/
+}
+
+.body-content-admin {
+    padding-top: 20px;
+}
+
+.body-content-inner {
+    min-height: 800px;
+    margin-top: 25px;
+}
+
+.description-limit {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4; /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
+
+.footer {
+    margin-top: 20px;
+    background-color: var(--footer-background);
+    color: var(--footer-text);
+    padding: 11px;
+    padding-bottom: 1px;
+    text-align: left;
+}
+
+.footer-text {
+}
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    /*max-width: 280px;*/
+}
+
+/* Extra Small devices (landscape phones, 544px and up) */
+@media (max-width: 544px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .btn {
+        font-size: 12px;
+    }
+}
+
+/* Small devices (landscape phones, 544px and up) */
+@media (min-width: 544px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    h1 {
+        font-size: 3rem;
+    }
+}
+
+.PagedListPager {
+    text-align: center
+}

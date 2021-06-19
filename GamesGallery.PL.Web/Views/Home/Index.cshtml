@@ -1,0 +1,20 @@
+﻿@model GamesGallery.ViewModel.IndexViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@section styles{
+    @Styles.Render("~/Content/pagedlist")
+}
+
+@if (Model != null)
+{
+    <div>
+        @* Carousel *@
+        @{ Html.RenderAction("_SliderPartial", "PartialView", new { Sliders = Model.Sliders }); }
+
+        @* Recent Games *@
+        @{ Html.RenderAction("_GamesPartial", "PartialView", new { Games = Model.Games, Title = "Recent Games", Action = "Index", Controller = "Home" }); }
+    </div>
+}
+

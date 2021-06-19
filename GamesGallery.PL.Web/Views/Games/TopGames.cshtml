@@ -1,0 +1,20 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model IPagedList<GamesGallery.ViewModel.GameViewModel>
+
+@{
+    ViewBag.Title = "Top Games";
+}
+
+@section styles{
+    @Styles.Render("~/Content/pagedlist")
+}
+
+<div>
+    @{ Html.RenderAction("_GamesPartial", "PartialView", new { Games = Model, Title = "Top Games", Action = "TopGames", Controller = "Games" }); }
+</div>
+
+
+
+
+

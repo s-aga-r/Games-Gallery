@@ -1,0 +1,70 @@
+﻿@model GamesGallery.ViewModel.SliderViewModel
+
+@{
+    ViewBag.Title = "Delete Slider";
+}
+
+@section styles{
+    @Styles.Render("~/bundles/custom/css")
+}
+
+<div class="container">
+    @{ Html.RenderPartial("_ViewHeadingPartial", "Remove Slider"); }
+
+    @{ Html.RenderPartial("_RemoveWarningPartial", ""); }
+
+    <hr />
+
+    <dl class="dl-horizontal col-md-5">
+        <dt>
+            @Html.DisplayNameFor(model => model.SlideImage)
+        </dt>
+
+        <dd>
+            @{ Html.RenderPartial("_SliderImagePartial", new Tuple<string, string>(Model.SlideImage, Model.Game.Title)); }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Game)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Game.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOfUpload)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfUpload)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastUpdatedOn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastUpdatedOn)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Order)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Order)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsActive)
+        </dd>
+
+    </dl>
+
+    @{ Html.RenderPartial("_RemoveButtonPartial"); }
+</div>

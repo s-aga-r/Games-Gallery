@@ -1,0 +1,48 @@
+﻿body {
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+
+.navbar-color {
+    background-color: white;
+    box-shadow: 0px 1px 20px #D3D3D3;
+}
+
+.body-content {
+    /*padding-left: 15px;
+    padding-right: 15px;*/
+}
+
+.body-content-admin {
+    padding-top: 20px;
+}
+
+.body-content-inner {
+    min-height: 800px;
+    margin-top: 25px;
+}
+
+.footer {
+    margin-top: 20px;
+    background-color: #2e2e2d;
+    color: white;
+    padding: 11px;
+    padding-bottom: 1px;
+    text-align: left;
+}
+
+.footer-text {
+}
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
