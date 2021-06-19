@@ -13,7 +13,7 @@ Technologies and Frameworks :
 > Entity Framework,
 > Microsoft SQL Server
 
-NOTE : Change all the configuration settings ex. Database connection string, File save location etc from web.config before run :)
+NOTE : Change the configuration settings ex. Database connection string on web.config before run :)
 
  Login
 ![login](https://user-images.githubusercontent.com/63660334/122643699-f986e480-d12e-11eb-8c7a-93b29b384dd6.jpg)
