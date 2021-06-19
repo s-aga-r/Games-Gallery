@@ -3,14 +3,14 @@ Games Gallery is a Web-Application made for downloading pc games. It provide all
 
 Technologies and Frameworks :
 
-> HTML
-> CSS
-> Bootstrap
-> JavaScript
-> JQuery
-> ASP.NET MVC
-> Identity Framework
-> Entity Framework
+> HTML,
+> CSS,
+> Bootstrap,
+> JavaScript,
+> JQuery,
+> ASP.NET MVC,
+> Identity Framework,
+> Entity Framework,
 > Microsoft SQL Server
 
 NOTE : Change all the configuration settings ex. Database connection string, File save location etc from web.config before run :)
@@ -53,17 +53,3 @@ Home
 ![home3](https://user-images.githubusercontent.com/63660334/122643798-774af000-d12f-11eb-8c1a-955d7b937df4.jpg)
 ![home4](https://user-images.githubusercontent.com/63660334/122643802-7c0fa400-d12f-11eb-83eb-1833f987c4d4.jpg)
 ![game5](https://user-images.githubusercontent.com/63660334/122643804-7f0a9480-d12f-11eb-9b6b-544bc4a1518d.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
