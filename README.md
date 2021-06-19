@@ -1,5 +1,5 @@
 # Games-Gallery
-Games Gallery is a Web-Application made for downloading pc games. It provide all the basic functionalities like Login, Admin Dashbord etc. This application is based on MVC and Repository Design Pattern.
+Games Gallery is a Web-Application made for downloading pc games. It provide all the basic functionalities like Login, Admin Dashboard etc. This application is based on MVC and Repository Design Pattern.
 
 Technologies and Frameworks :
 
