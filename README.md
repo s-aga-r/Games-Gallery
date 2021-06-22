@@ -15,7 +15,7 @@ Technologies and Frameworks :
 
 NOTE : Change the configuration settings ex. Database connection string on web.config before run :)
 
-https://user-images.githubusercontent.com/63660334/122644715-50db8380-d134-11eb-9c15-672d940e1a73.mp4
+https://user-images.githubusercontent.com/63660334/122871813-2e708280-d34d-11eb-854c-b7a269b2828b.mp4
 
  Login
 ![login](https://user-images.githubusercontent.com/63660334/122643699-f986e480-d12e-11eb-8c7a-93b29b384dd6.jpg)
